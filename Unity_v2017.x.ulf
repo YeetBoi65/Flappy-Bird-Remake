@@ -1,0 +1,58 @@
+<root>
+  <License id="Terms">
+    <AlwaysOnline Value="false"/>
+    <ClientProvidedVersion Value="2017.2.0"/>
+    <DeveloperData Value="AQAAAEUzLUVKM1ktS1VBSy1GNUdQLUFXU0QtOUJLVw=="/>
+    <Features>
+      <Feature Value="0"/>
+      <Feature Value="1"/>
+      <Feature Value="2"/>
+      <Feature Value="3"/>
+      <Feature Value="4"/>
+      <Feature Value="12"/>
+      <Feature Value="13"/>
+      <Feature Value="17"/>
+      <Feature Value="18"/>
+      <Feature Value="19"/>
+      <Feature Value="20"/>
+      <Feature Value="24"/>
+      <Feature Value="25"/>
+      <Feature Value="33"/>
+      <Feature Value="34"/>
+      <Feature Value="36"/>
+      <Feature Value="63"/>
+    </Features>
+    <InitialActivationDate Value="2020-05-21T19:45:20"/>
+    <LicenseVersion Value="6.x"/>
+    <MachineBindings>
+      <Binding Key="1" Value="0D38B386-85F4-5A52-9EA5-A741D821C5D8"/>
+      <Binding Key="2" Value="FVFC2A4VL40Y"/>
+    </MachineBindings>
+    <MachineID Value="5pT1L+lea4JVxkI52YxSbeolaPM="/>
+    <SerialHash Value="447c0c8e5e28a83659bda90b53485e3bf9451c67"/>
+    <SerialMasked Value="E3-EJ3Y-KUAK-F5GP-AWSD-XXXX"/>
+    <StartDate Value="2020-05-13T00:00:00"/>
+    <StopDate Value="2021-05-14T00:00:00"/>
+    <UpdateDate Value="2020-05-26T23:02:19"/>
+  </License>
+
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#Terms">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>Gy63410xRCq8u8OkE9a3JphrP8E=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>F07T+ZBCM+1cm11Gt5tbVpnPP7SmS7npKINKZYQpB1f15Z2OiPV6ZvsdRyeaqIVM
+csqh2OvnjLqbvopWb3cE3CdQUX4DCmB6aYoZWbDLZyFtsIbNEukEZj9ZK24yfDE2
+JKxck0Mfktzbeq6tkTRi3YWKMomtMLgSsV08yzzuBKlgeprycE9Ha7G4Ws4iTMvX
+efPgzuxq8slibJggERPOyYd7oAkDIQGysy4JMcHOs8MuknOKA0PU3EfH8aSRIOAP
+mKZjq+3IGgdxGZE/CaLjR4DgjBVWpG2rlftTIfeYGKthYAI6FV2R3xlKl2gWThuV
+ez6Qxlj2AVzzQQ3Atyicew==</SignatureValue>
+</Signature>
+</root>
